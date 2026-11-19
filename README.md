@@ -12,6 +12,7 @@ This repository contains my semester C programming programs and solutions to 10 
 - Algorithms
 - Basic problem-solving
 
+## LeetCode link - https://leetcode.com/u/Rukhshana_01/
 ## LeetCode Solutions
 
 | No. | Problem Name | File Name |
